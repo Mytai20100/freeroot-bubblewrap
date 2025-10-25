@@ -1,7 +1,5 @@
 # freeroot-bubblewrap
 Use bubblewrap =O for freeroot 
-# freeroot-bubblewrap
-Use bubblewrap =O for freeroot 
 # PROOT Installer
 
 ## Overview
