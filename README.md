@@ -40,9 +40,9 @@ or
 ## License
 
 This bwrap Installer script is released under the [MIT License](LICENSE).
-#Credit 
-#Main idea(thank u !!!) (https://github.com/foxytouxxx/freeroot)
-#Bubblewrap(https://github.com/containers/bubblewrap)
+## Credit 
+# Main idea(thank u !!!) (https://github.com/foxytouxxx/freeroot)
+# Bubblewrap(https://github.com/containers/bubblewrap)
 
 ## Launch your vps with bwarp
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mytai20100/freeroot.git/HEAD)
